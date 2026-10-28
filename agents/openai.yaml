@@ -1,0 +1,6 @@
+interface:
+  display_name: "元宝搜索 · 信息差雷达"
+  short_description: "使用元宝搜索进行实时调研并核实关键来源"
+  default_prompt: "使用 $yuanbao-search 广泛检索最新信息，并核实关键来源。"
+policy:
+  allow_implicit_invocation: true
